@@ -37,5 +37,5 @@ $ (venv) python chat.py
 ```
 
 ## Note
-In the video we implement the first approach using jinja2 templates within our Flask app. Only slight modifications are needed to run the frontend separately. I put the final frontend code for a static frontend application in the  folder.
+i implement the first approach using jinja2 templates within our Flask app. Only slight modifications are needed to run the frontend separately.
 
